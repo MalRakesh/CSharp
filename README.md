@@ -81,5 +81,5 @@ For any inquiries, reach out via :
 
 [LinkedIn](https://www.linkedin.com/in/rakeshmal) <br>
 [Instagram](https://www.instagram.com/_rakeshmal/)<br>
-[Email](malrakesh172@gmail.com) <br>
 [GitHub](https://github.com/MalRakesh)<br>
+Email - malrakesh172@gmail.com 
