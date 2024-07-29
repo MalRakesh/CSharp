@@ -77,4 +77,9 @@ You can also view the full license text [here](https://opensource.org/licenses/M
 
 ## Contact
 
-For any inquiries, reach out to Rakesh Mal via [GitHub](https://github.com/MalRakesh).
+For any inquiries, reach out via :
+
+[LinkedIn](https://www.linkedin.com/in/rakeshmal) <br>
+[Instagram](https://www.instagram.com/_rakeshmal/)<br>
+[Email](malrakesh172@gmail.com) <br>
+[GitHub](https://github.com/MalRakesh)<br>
