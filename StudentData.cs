@@ -52,6 +52,7 @@ namespace StudentData
 
             for (j = 1; j <= num; j++)
             {
+                
                 Console.WriteLine("\n--- Student no. " + j + "---");
 
                 Console.Write("\nStudent ID - " + student_id[j]);
